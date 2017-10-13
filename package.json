@@ -1,0 +1,19 @@
+{
+  "name": "kg2017",
+  "version": "1.0.0",
+  "description": "node tutorial ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ErcanC/kg2017.git"
+  },
+  "author": "ercan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ErcanC/kg2017/issues"
+  },
+  "homepage": "https://github.com/ErcanC/kg2017#readme"
+}
